@@ -1,0 +1,11 @@
+laptop-normal-node/go-ethereum
+laptop-normal-node/data/geth
+laptop-normal-node/data/history
+led-operator/node_modules
+raspi-node/go-ethereum
+raspi-node/data/geth
+raspi-node/data/history
+server-validator-node/go-ethereum
+server-validator-node/led_frontend/node_modules
+server-validator-node/led_smartcontract/node_modules
+server-validator-node/data/geth
